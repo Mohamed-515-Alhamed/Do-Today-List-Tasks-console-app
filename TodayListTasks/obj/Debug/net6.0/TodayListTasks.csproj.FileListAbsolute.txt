@@ -1,0 +1,15 @@
+D:\visulProjects\TodayListTasks\obj\Debug\net6.0\TodayListTasks.csproj.AssemblyReference.cache
+D:\visulProjects\TodayListTasks\obj\Debug\net6.0\TodayListTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\visulProjects\TodayListTasks\obj\Debug\net6.0\TodayListTasks.AssemblyInfoInputs.cache
+D:\visulProjects\TodayListTasks\obj\Debug\net6.0\TodayListTasks.AssemblyInfo.cs
+D:\visulProjects\TodayListTasks\obj\Debug\net6.0\TodayListTasks.csproj.CoreCompileInputs.cache
+D:\visulProjects\TodayListTasks\bin\Debug\net6.0\TodayListTasks.exe
+D:\visulProjects\TodayListTasks\bin\Debug\net6.0\TodayListTasks.deps.json
+D:\visulProjects\TodayListTasks\bin\Debug\net6.0\TodayListTasks.runtimeconfig.json
+D:\visulProjects\TodayListTasks\bin\Debug\net6.0\TodayListTasks.dll
+D:\visulProjects\TodayListTasks\bin\Debug\net6.0\ref\TodayListTasks.dll
+D:\visulProjects\TodayListTasks\bin\Debug\net6.0\TodayListTasks.pdb
+D:\visulProjects\TodayListTasks\obj\Debug\net6.0\TodayListTasks.dll
+D:\visulProjects\TodayListTasks\obj\Debug\net6.0\ref\TodayListTasks.dll
+D:\visulProjects\TodayListTasks\obj\Debug\net6.0\TodayListTasks.pdb
+D:\visulProjects\TodayListTasks\obj\Debug\net6.0\TodayListTasks.genruntimeconfig.cache
